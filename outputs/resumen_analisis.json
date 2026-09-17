@@ -1,0 +1,24 @@
+{
+  "modelo_base": {
+    "profundidad": 8,
+    "hojas_minimas": 1,
+    "exactitud_oob": 0.9530791788856305,
+    "diagnostico": {
+      "bias": "Bajo",
+      "varianza": "Media",
+      "ajuste": "Overfit leve",
+      "diferencia_maxima": 0.04385964912280704
+    }
+  },
+  "modelo_ajustado": {
+    "profundidad": 6,
+    "hojas_minimas": 4,
+    "exactitud_oob": 0.9442815249266863,
+    "diagnostico": {
+      "bias": "Bajo",
+      "varianza": "Baja",
+      "ajuste": "Fit",
+      "diferencia_maxima": 0.023357514019653247
+    }
+  }
+}
